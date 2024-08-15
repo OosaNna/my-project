@@ -1,0 +1,15 @@
+#head {
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: solid;
+    border-color: blue;
+    padding: 20px;
+    margin: 20px;
+}
+body {
+    background-color: rgb(107, 102, 87);
+}
+image{
+    display: flex;
+}
